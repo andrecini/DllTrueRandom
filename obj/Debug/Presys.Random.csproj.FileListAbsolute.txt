@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\Presys.Random\bin\Debug\Presys.Random.dll
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\Presys.Random\bin\Debug\Presys.Random.pdb
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\Presys.Random\obj\Debug\Presys.Random.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\Presys.Random\obj\Debug\Presys.Random.dll
+C:\Users\admin\Desktop\TestesEstudoDeCodigos\Presys.Random\obj\Debug\Presys.Random.pdb
